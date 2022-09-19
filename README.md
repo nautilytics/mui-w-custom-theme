@@ -2,7 +2,17 @@
 
 An example React and TypeScript repo demonstrating how to extend the Material UI theme with custom design tokens.
 
-<img width="1050" alt="Screen Shot 2022-09-16 at 4 48 43 PM" src="https://user-images.githubusercontent.com/1707103/190732538-f550a472-08f2-4cd3-9a3c-c00265958158.png">
+## Button
+
+### Light Mode
+
+<img width="221" alt="Screen Shot 2022-09-19 at 10 07 46 AM" src="https://user-images.githubusercontent.com/1707103/191036959-465c2df4-16e5-4949-a36f-58c06755e13c.png">
+
+### Dark Mode
+
+<img width="221" alt="Screen Shot 2022-09-19 at 10 07 16 AM" src="https://user-images.githubusercontent.com/1707103/191036937-2d36802d-cf6d-4ce6-9a7b-85722533f8dc.png">
+
+## Installation
 
 ```bash
 yarn install
